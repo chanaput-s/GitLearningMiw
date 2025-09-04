@@ -1,4 +1,5 @@
 # version 100.py
+# aded in version 1.0.0 comment
 def get_version():
     return "1.0.0"
 
